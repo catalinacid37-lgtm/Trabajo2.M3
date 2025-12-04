@@ -1,0 +1,16 @@
+body {
+    font-family:Verdana, Geneva;
+    text-align: center;
+    background-color: rgb(221, 220, 245);
+    margin-top: 60px;
+
+}
+
+#resultado {
+    font-size: 20px;
+    margin-top: 20px;
+    color: darkblue;
+    font-weight: bold;
+
+
+}
